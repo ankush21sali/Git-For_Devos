@@ -54,3 +54,4 @@ git checkout
 git checkout master
 git status
 clear
+git remote -v
