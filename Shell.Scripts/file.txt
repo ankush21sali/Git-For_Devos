@@ -1,0 +1,13 @@
+
+#Ankush
+#Deepak
+#Nand
+#Suraj
+#Sachin
+#Chanchal
+#Muskan
+#Soumya
+
+name=vim mydemo.sh
+
+echo "$name"
